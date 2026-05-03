@@ -27,7 +27,6 @@ It is recommended to structure the repository as follows to facilitate reproduci
 To achieve maximum performance, the codes are compiled with the `-O3` optimization flag. Open your terminal and run:
 
 \`\`\`bash
-# Compile the model
 gcc -o bin/Coevolution_antagonistic_networks src/Coevolution_antagonistic_WoL_networks.c -O3 -lm -Wall -Wextra
 \`\`\`
 
@@ -46,5 +45,5 @@ Once the C simulations have finished and exported the CSVs:
 2. Run `plot_figures_def.ipynb`.
 3. The notebook will automatically read the adjacency matrices (bipartite), and generate the figures for the paper.
 
-## 📄 License
+## License
 This project is distributed under the [GPLv3] license. See the `LICENSE` file for more details.
