@@ -1,3 +1,5 @@
+## WORK STILL IN PROGRESS!!! (MANY FILES STILL MISSING)
+
 This repository contains the source code to simulate and analyze the coevolutionary dynamics of antagonistic networks (exploiter-victim). The project is divided into two phases: the numerical simulation implemented in `C`, and the structural analysis and visualization implemented in `Python` (Jupyter Notebook).
 
 ## Project Structure
