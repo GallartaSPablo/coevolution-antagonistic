@@ -10,7 +10,7 @@ It is recommended to structure the repository as follows to facilitate reproduci
   * `plot_figures_def.ipynb`: processing of the generated CSVs, topological analysis (NODF, intervality gaps), and figure generation.
 * `data/` (not included in the repo): directory where the C programs export the data in `.csv` format (e.g., `/Files/Temporal/`, `VE_networks/`).
 
-## 🛠 Requirements and Dependencies
+## Requirements and Dependencies
 
 **For the numerical simulations (C):**
 * GCC Compiler.
